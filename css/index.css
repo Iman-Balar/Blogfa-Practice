@@ -1,0 +1,41 @@
+.header--blogfa-logo{
+    width: 157px;
+    height: 30px;
+}
+
+.main--topbox{
+    background-image: url('http://www.blogfa.com/static/images/backpattern.png');
+    background-size: cover;
+    height: 16rem;
+}
+
+.btn{
+    width: 140px;
+    font-size: 13px;
+    background-color: #2196f3;
+}
+
+.fs-7{
+    font-size: 0.9rem;
+}
+
+.bg-secondary{
+    background-color: #f4f5f8 !important;
+}
+
+.max-height{
+    max-height: 10rem;
+    min-height: 10rem;
+}
+
+.w-30{
+    width: 30%;
+}
+
+.card{
+    border: 1px solid rgb(232, 232, 232);
+}
+
+a{
+    text-decoration: none;
+}
